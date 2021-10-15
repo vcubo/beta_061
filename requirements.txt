@@ -1,0 +1,8 @@
+streamlit==0.87.0
+numpy
+pandas
+plotly
+scipy
+hydralit_components
+streamlit_analytics
+psycopg2
